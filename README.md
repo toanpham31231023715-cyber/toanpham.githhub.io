@@ -42,8 +42,9 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lamnguyenkhang31231021496&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com?user=lamnguyenkhang31231021496&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lamnguyenkhang31231021496&theme=dark&hide_border=false&layout=compact)
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=toanpham31231023715&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com?user=toanpham31231023715&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=toanpham31231023715&theme=dark&hide_border=false&layout=compact)
+
 
 ---
