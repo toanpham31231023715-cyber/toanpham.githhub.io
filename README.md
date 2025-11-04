@@ -1,61 +1,49 @@
-# Bài tập
+
 
 ---
 
-## 📘 University of Economics Ho Chi Minh City (UEH)
+<h1 align="center">  🏫 University of Economics Ho Chi Minh City (UEH) 🏫
 
-# Course Project Report
+<h2 align="center"> 📚 Course Project Report 📚
 
 ---
 
-### 💻 Course: Programming Techniques with Stata & Python
+<h2 align="center">  💻 Course: Programming Techniques with Stata & Python 💻
 
-### 🗓️ Semester: HKC 2025
+<h3 align="center">  🗓️ Semester: Last semester 2025 🗓️
 
 ---
 
 ## 📌 Information
 
-* **Class:** IVP001
-* **Instructor:** Dr. Đỗ Như Tài
-* **Student:** Phạm Hữu Anh Toàn
-* **Student's ID:** 31231023715
-* **Topic:** Personal practice
-* **Date:** Last semester 2025
+* **💼 Class:** IVP001
+* **🧑‍🏫 Instructor:** Dr. Đỗ Như Tài
+* **👨‍🎓 Student's name:** Phạm Hữu Anh Toàn
+* **💡 Student's ID:** 31231023715
+* **🧑‍💻 Topic:** Personal practice
+
 <p align="center">
-  <img alt="Python version" src="https://img.shields.io/badge/PYTHON-3.11-306998?style=flat-square&logo=python&logoColor=white">
-  <img alt="Stata version" src="https://img.shields.io/badge/STATA-17-2D623C?style=flat-square&logo=stata&logoColor=white">
-  <img alt="GitHub Repo" src="https://img.shields.io/badge/GITHUB-REPO-181717?style=flat-square&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Stata-17-4E9A06?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/GitHub-Repo-black?logo=github&style=for-the-badge"/>
 </p>
 
 <p align="center">
-  <img src="[[YOUR_IMAGE_URL](https://www.google.com/url?sa=i&url=https%3A%2F%2Fvi.wikipedia.org%2Fwiki%2F%25C4%2590%25E1%25BA%25A1i_h%25E1%25BB%258Dc_Kinh_t%25E1%25BA%25BF_Th%25C3%25A0nh_ph%25E1%25BB%2591_H%25E1%25BB%2593_Ch%25C3%25AD_Minh&psig=AOvVaw34yQaXRpo6_eLl2ycRv903&ust=1762271211893000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCLiuwf6p1pADFQAAAAAdAAAAABAE)]" alt="University of Economics Ho Chi Minh City (UEH) Logo" style="width: 50%; max-width: 400px; display: block; margin: 0 auto;">
-  <br>
-  **University of Economics Ho Chi Minh City (UEH)**
+  <img src="https://media.giphy.com/media/CS7bbg1zKsMuw8slw1/giphy.gif" width="350" alt="UEH logo">
 </p>
+<p align="center"><b>University of Economics Ho Chi Minh City (UEH)</b></p>
+
 
 ---
 
-## 💻 Tech Stack:
-### 🛠️ Tech Stack Badges:
+# Tech Stack: 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![OpenSea](https://img.shields.io/badge/OpenSea-%232081E2.svg?style=for-the-badge&logo=opensea&logoColor=white)
 
-<p>
-  <img alt="Python" src="https://img.shields.io/badge/PYTHON-306998?style=flat-square&logo=python&logoColor=white">
-  <img alt="R Language" src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white">
-  <img alt="Pandas" src="https://img.shields.io/badge/PANDAS-150458?style=flat-square&logo=pandas&logoColor=white">
-  <img alt="Numpy" src="https://img.shields.io/badge/NUMPY-013243?style=flat-square&logo=numpy&logoColor=white">
-  <img alt="Power BI" src="https://img.shields.io/badge/POWER%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black">
-  <img alt="Opensea" src="https://img.shields.io/badge/OPENSEA-2081E2?style=flat-square&logo=opensea&logoColor=white">
-</p>
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lamnguyenkhang31231021496&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com?user=lamnguyenkhang31231021496&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lamnguyenkhang31231021496&theme=dark&hide_border=false&layout=compact)
 
 ---
-
-## 📈 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PhamHuuAnhToan&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="Pham Huu Anh Toan's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PhamHuuAnhToan&theme=dark&hide_border=true" alt="Pham Huu Anh Toan's GitHub Streak Stats" />
-</p>
